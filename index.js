@@ -1,7 +1,7 @@
 const age = 30;
 console.log(age);
 
-const name = "John Doe";
+const name = "John Malik Doe";
 console.log(name);
 
 function sayHello(a, b) {
