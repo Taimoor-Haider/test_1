@@ -9,3 +9,7 @@ function sayHello(a, b) {
 }
 
 console.log(10, 12);
+
+function isAdult(age) {
+  return age > 18 ? true : false;
+}
