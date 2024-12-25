@@ -16,3 +16,8 @@ function isAdult(age) {
 
 console.log("Changes in DEV-234");
 console.log("Changes in DEV-233");
+console.log("Testing changes for stashing1");
+console.log("Testing changes for stashing2");
+console.log("Testing changes for stashing3");
+console.log("Testing changes for stashing4");
+console.log("Testing changes for stashing5");
